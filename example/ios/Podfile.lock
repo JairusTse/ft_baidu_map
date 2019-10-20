@@ -1,0 +1,29 @@
+PODS:
+  - BMKLocationKit (1.8.0)
+  - Flutter (1.0.0)
+  - flutter_baidu_map (0.0.1):
+    - BMKLocationKit
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - flutter_baidu_map (from `.symlinks/plugins/flutter_baidu_map/ios`)
+
+SPEC REPOS:
+  trunk:
+    - BMKLocationKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  flutter_baidu_map:
+    :path: ".symlinks/plugins/flutter_baidu_map/ios"
+
+SPEC CHECKSUMS:
+  BMKLocationKit: 29f9f04827bfe2f2ca2c1c87b11161f05d4189a5
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_baidu_map: 538649cb8ddc8bd046b8b0639f80a07e92d39d17
+
+PODFILE CHECKSUM: 10ae9c18d12c9ffc2275c9a159a3b1e281990db0
+
+COCOAPODS: 1.8.3
